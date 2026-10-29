@@ -25,4 +25,4 @@ Run `npm run build` and publish the generated `dist/` directory. Vercel uses `ve
 
 ## Demo behavior and privacy
 
-Appointment booking, rescheduling and cancellation use browser local storage only. Use fictional details. Do not enter real contact or health information. The portal and admin dashboard are simulations with no authentication, backend or clinical records. Sample forms do not transmit data. Images load from Unsplash and Google Fonts loads Inter-like typography fallback alongside hosted DM Sans and Playfair Display; an internet connection is needed for hosted assets.
+Appointment booking, rescheduling and cancellation use browser local storage only. Use fictional details. Do not enter real contact or health information. The portal and admin dashboard are simulations with no authentication, backend or clinical records. Sample forms do not transmit data. Images load from Unsplash and Inter loads from Google Fonts; an internet connection is needed for these hosted assets.
